@@ -1,5 +1,0 @@
-; Bibliotecas necessárias (Wokwi resolve automaticamente pelo nome).
-; No Arduino IDE local, instale-as pelo Gerenciador de Bibliotecas.
-LiquidCrystal I2C
-DHT sensor library
-Adafruit Unified Sensor
