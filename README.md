@@ -43,8 +43,8 @@ O estado **DEGRADADO** é proposital: em vez de fingir que desviou, o sistema **
 | Potenciômetro | Nível de propelente | pino central = A0; laterais = 5V e GND |
 | Servo motor | Propulsor de desvio | sinal = 6; VCC = 5V; GND = GND |
 | LED verde | Estado NOMINAL | 8 (+ resistor 220 Ω ao GND) |
-| LED âmbar | Estado ALERTA | 7 (+ resistor 220 Ω ao GND) |
-| LED vermelho | Estado CRÍTICO/falha | 13 (+ resistor 220 Ω ao GND) |
+| LED âmbar | Estado ALERTA | 13 (+ resistor 220 Ω ao GND) |
+| LED vermelho | Estado CRÍTICO/falha | 7 (+ resistor 220 Ω ao GND) |
 | LCD 16x2 (paralelo) | Telemetria local | ver tabela abaixo |
 
 ### Ligação do LCD 16x2 (modo 4 bits)
