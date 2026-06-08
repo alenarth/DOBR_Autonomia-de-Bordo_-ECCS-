@@ -1,6 +1,0 @@
-Coloque aqui o vídeo demonstrativo (MP4) OU cole o link abaixo.
-
-Vídeo (YouTube não listado ou Google Drive): __________________________________
-
-Roteiro pronto para gravar: ../docs/roteiro_video.md
-Duração máxima: 3 minutos.

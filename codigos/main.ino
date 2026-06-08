@@ -11,8 +11,8 @@ const int PINO_ECHO = 10;
 const int PINO_POT  = A0;
 const int PINO_SERVO = 6;
 const int LED_VERDE    = 8;
-const int LED_AMBAR    = 13;
-const int LED_VERMELHO = 7;
+const int LED_AMBAR    = 7;
+const int LED_VERMELHO = 13;
 
 // --------------------------- LIMIARES ------------------------------
 const int DIST_ALERTA   = 100;  // cm: abaixo disso = atenção
