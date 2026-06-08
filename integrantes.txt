@@ -1,0 +1,11 @@
+INTEGRANTES DO GRUPO
+====================
+
+Nome: Arthur Alen Amorelli Pereira
+RM:   571897
+
+Curso: Engenharia de Software — 1º Semestre
+Turma: Semi Presencial
+Disciplina: Edge Computing & Computer Systems (ECCS)
+Projeto: Dark Orbit BR — Núcleo de Autonomia de Bordo (CubeSat-Rio-1)
+Global Solution 2026 — FIAP
