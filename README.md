@@ -115,7 +115,7 @@ projeto-edge-space/
 ## 8. Links de entrega
 
 - **Projeto no Tinkercad:** [Link do Projeto](https://www.tinkercad.com/things/lRdVb9jhzPp-dark-orbit?sharecode=Qcv7JdDmNU3-Gvxk1kuy3piqQ7JG9n8cZW_wdc11a-c)
-- **Vídeo demonstrativo:** (O link deve ser colado em `video/link_video.txt`)
+- **Vídeo demonstrativo:** [Link do Vídeo](https://www.youtube.com/watch?v=9XhQZwAJWnM)
 
 ---
 
